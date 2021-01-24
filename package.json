@@ -4,7 +4,7 @@
     "license": "GPL-3.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicsunday/webtrees-fan-chart"
+        "URL": "https://github.com/magicsunday/webtrees-fan-chart"
     },
     "description": "",
     "scripts": {
